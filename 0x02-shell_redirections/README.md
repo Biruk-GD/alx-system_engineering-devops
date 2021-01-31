@@ -1,0 +1,1 @@
+his Directory contains all the files of corrosponding tasks given under 0x02. Shell, I/o rediraction and filter.
