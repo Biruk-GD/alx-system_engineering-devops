@@ -1,1 +1,2 @@
-cat /etc/passwd /etc/hosts
+#!/bin/bash
+echo -e cat /etc/passwd /etc/hosts > 3-twofiles
