@@ -1,0 +1,1 @@
+This repository contains all the directories and corrosponding files for tasks given under 0x02. Shell, I/O Reditections and filters as organized by Biruk Gizaw Derese.
