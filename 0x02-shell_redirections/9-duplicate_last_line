@@ -1,2 +1,2 @@
 #!/bim/bash
-echo  -e  "tail -n 1 iacta" >> iacta\n
+echo -e "tail -n 1 iacta >> iacta\n"
